@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616656744623",
+    "project_id": "assignmentandroidnetwork",
+    "storage_bucket": "assignmentandroidnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616656744623:android:db403ef88083ef2927a45a",
+        "android_client_info": {
+          "package_name": "com.example.haintpd04043_assignment_androidnetworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616656744623-hso8p2m7920peckajqje1ihaon8b8o43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haintpd04043_assignment_androidnetworking",
+            "certificate_hash": "819e6577e53eb9304a173602df46de2a71905157"
+          }
+        },
+        {
+          "client_id": "616656744623-24hlkth6qc0e49cq0foc6dqoo4q8c1gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-BlsXEC_BTv080hXwKr9q7OyUOseLhEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616656744623-24hlkth6qc0e49cq0foc6dqoo4q8c1gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
